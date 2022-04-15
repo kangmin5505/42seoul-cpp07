@@ -6,7 +6,7 @@
 #    By: kangkim <kangkim@student.42seoul.kr>       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/04/13 13:34:20 by kangkim           #+#    #+#              #
-#    Updated: 2022/04/14 00:07:17 by kangkim          ###   ########.fr        #
+#    Updated: 2022/04/15 11:38:24 by kangkim          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -18,7 +18,7 @@ NAME = main
 SRCS = main.cpp
 OBJS = $(SRCS:.cpp=.o)
 
-HEAHDER = whatever.hpp
+HEAHDER = Array.hpp
 
 all : $(NAME)
 
